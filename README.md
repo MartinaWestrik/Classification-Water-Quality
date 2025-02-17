@@ -1,0 +1,1 @@
+•	Water Quality Classification: Built a classification model to predict water safety based on chemical properties. Addressed class imbalance using SMOTE and evaluated models using precision, recall, and AUC scores, with Random Forest yielding the best performance.
